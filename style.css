@@ -1,0 +1,20 @@
+body{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	background:url(./img/bb.gif)center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.sub-projeto-sobre{
+	font-size: 1.09em;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 900;
+	color: #FF3030
+}
+.menu-list{
+	font-size: 1.09em;
+	font-family: 'Slabo 27px', serif;
+	font-weight: 400;
+	color: #FFFAFA
+}
